@@ -2,7 +2,7 @@
     var index = 0;
     var content = document.getElementById("content");
     var config = {
-        timeout: 300000,
+        timeout: 30000,
         url: 'https://app.vivifyscrum.com/boards/',
         boards: 
             [
